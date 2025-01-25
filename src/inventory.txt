@@ -1,1 +1,5 @@
-
+2,2
+Mango,6
+Strawberry,5
+Raspberry,6
+chikku,1
